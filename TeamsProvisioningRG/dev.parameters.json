@@ -3,31 +3,31 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "appName": {
-        "value": "TeamsProvisioningDev"
+        "value": "TeamsCreation"
       },
       "repoUrl": {
-        "value": "https://github.com/BobGerman/TeamsProvisioning.git"
+        "value": "https://github.com/TikkiBanksy/TeamsProvisioning.git"
       },
       "branch": {
-        "value": "dev"
+        "value": "master"
       },
       "TENANT": {
-        "value": "a25d4ef1-c73a-4dc1-bdb1-9a342260f216"
+        "value": "4d18d459-acd2-4ca7-9675-2b1664882277"
       },
       "TENANT_NAME": {
-        "value": "bgtest18"
+        "value": "the green dog"
       },
       "CLIENT_ID": {
-        "value": "3b34741d-68fc-4465-b25e-d6fba3de701d"
+        "value": "e834f5ce-e89e-4ba4-838c-4bce715637b9"
       },
       "CLIENT_SECRET": {
-        "value": "@Microsoft.KeyVault(SecretUri=https://teamsprovisioning.vault.azure.net/secrets/client-secret/cd56ab45a33e47bfb0b091c75b99099a)"
+        "value": "@Microsoft.KeyVault(SecretUri=https://greenvault.vault.azure.net/secrets/TeamsCreation/77effe8d95834bb38e20700f7a92180f)"
       },
       "TEMPLATE_SITE_URL": {
-        "value": "/sites/TeamsProvisioning"
+        "value": "/sites/RufferTestTeamsite"
       },
       "TEMPLATE_LIB_NAME": {
-        "value": "templates"
+        "value": "Json%20Templates"
       }
     }
   }
